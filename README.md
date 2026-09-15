@@ -21,9 +21,10 @@ A skin disease detection and consultation website built with React, Vite, and Ta
 ## Run Locally
 
 ```bash
-cd skin-care-app
+cd skin-care-app-main
 npm install
 npm run dev
+http://localhost:5173/
 ```
 
 
