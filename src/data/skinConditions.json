@@ -1,0 +1,122 @@
+[
+  {
+    "id": "acne",
+    "name": "Acne",
+    "symptoms": ["Pimples and blackheads", "Whiteheads", "Oily skin", "Red, inflamed bumps", "Scarring in severe cases"],
+    "causes": ["Excess oil production", "Clogged pores", "Bacteria", "Hormonal changes", "Stress and diet"],
+    "whenToSeeDoctor": "If over-the-counter treatments don't help after 2–3 months, or if acne is severe, painful, or causing scarring.",
+    "careTips": ["Wash face twice daily with gentle cleanser", "Avoid touching your face", "Use non-comedogenic products", "Don't pop pimples", "Consider oil-free moisturizer and sunscreen"]
+  },
+  {
+    "id": "eczema",
+    "name": "Eczema",
+    "symptoms": ["Dry, itchy skin", "Red or brown patches", "Small raised bumps", "Thickened or cracked skin", "Sensitivity and swelling"],
+    "causes": ["Genetic factors", "Dry skin", "Immune system response", "Environmental triggers", "Allergens and irritants"],
+    "whenToSeeDoctor": "If skin becomes infected, doesn't improve with moisturizer, or interferes with sleep or daily activities.",
+    "careTips": ["Moisturize daily", "Use mild, fragrance-free products", "Avoid hot showers", "Identify and avoid triggers", "Keep nails short to prevent scratching"]
+  },
+  {
+    "id": "psoriasis",
+    "name": "Psoriasis",
+    "symptoms": ["Red patches with silvery scales", "Dry, cracked skin that may bleed", "Itching or burning", "Thickened or pitted nails", "Stiff or swollen joints in some cases"],
+    "causes": ["Overactive immune system", "Genetic predisposition", "Stress", "Infections", "Cold or dry weather"],
+    "whenToSeeDoctor": "If patches are widespread, painful, or affecting quality of life. See a doctor for joint pain with skin symptoms.",
+    "careTips": ["Keep skin moisturized", "Limit sun exposure and use sunscreen", "Avoid alcohol and smoking", "Manage stress", "Consider phototherapy or prescribed treatments"]
+  },
+  {
+    "id": "rosacea",
+    "name": "Rosacea",
+    "symptoms": ["Facial redness and flushing", "Visible blood vessels", "Bumps and pimples", "Burning or stinging sensation", "Eye irritation or dryness"],
+    "causes": ["Genetic factors", "Sun exposure", "Spicy foods and alcohol", "Temperature extremes", "Stress and certain medications"],
+    "whenToSeeDoctor": "If redness is persistent, you develop eye symptoms, or over-the-counter products cause irritation.",
+    "careTips": ["Use gentle, fragrance-free skincare", "Apply broad-spectrum sunscreen daily", "Avoid known triggers", "Protect face in cold or wind", "Consider green-tinted makeup to reduce redness"]
+  },
+  {
+    "id": "contact-dermatitis",
+    "name": "Contact Dermatitis",
+    "symptoms": ["Red rash at site of contact", "Itching", "Dry or cracked skin", "Blisters that may ooze", "Swelling and burning"],
+    "causes": ["Allergens (e.g., nickel, fragrances)", "Irritants (soaps, detergents)", "Plants like poison ivy", "Latex", "Certain cosmetics"],
+    "whenToSeeDoctor": "If rash is severe, spreads, doesn't improve after avoiding the trigger, or shows signs of infection.",
+    "careTips": ["Identify and avoid the trigger", "Wash affected area with mild soap", "Apply cool compresses", "Use hydrocortisone cream for mild cases", "Wear gloves when handling irritants"]
+  },
+  {
+    "id": "melasma",
+    "name": "Melasma",
+    "symptoms": ["Brown or gray-brown patches on face", "Symmetrical patches on cheeks, forehead, nose", "Darkening in sun exposure", "More common in women"],
+    "causes": ["Sun exposure", "Hormonal changes (pregnancy, birth control)", "Genetic predisposition", "Certain medications", "Thyroid disease"],
+    "whenToSeeDoctor": "If patches change in size or color, or you want treatment options for cosmetic concerns.",
+    "careTips": ["Use broad-spectrum sunscreen daily", "Wear hats and seek shade", "Avoid hormonal triggers if possible", "Consider vitamin C or prescribed topical treatments", "Be patient—improvement can take months"]
+  },
+  {
+    "id": "vitiligo",
+    "name": "Vitiligo",
+    "symptoms": ["Patches of skin losing pigment (white or lighter)", "Premature graying of hair", "Loss of color inside mouth or eyes", "Patches may spread slowly"],
+    "causes": ["Autoimmune destruction of melanocytes", "Genetic factors", "Stress or sunburn as triggers", "Unknown in many cases"],
+    "whenToSeeDoctor": "For diagnosis and to discuss treatment options (cosmetic, phototherapy, or topical treatments).",
+    "careTips": ["Use sunscreen on affected and surrounding skin", "Camouflage makeup can help", "Avoid skin trauma", "Join support groups if helpful", "Discuss treatment goals with a dermatologist"]
+  },
+  {
+    "id": "fungal-infections",
+    "name": "Fungal Infections",
+    "symptoms": ["Ringworm: red, scaly, ring-shaped rash", "Athlete's foot: itchy, cracked skin between toes", "Jock itch: red rash in groin area", "Itching and sometimes blisters"],
+    "causes": ["Dermatophyte fungi", "Warm, moist environments", "Shared towels or surfaces", "Weakened immune system"],
+    "whenToSeeDoctor": "If rash doesn't improve with OTC antifungal cream after 2 weeks, or if it spreads or becomes painful.",
+    "careTips": ["Keep skin clean and dry", "Wear breathable clothing", "Don't share towels or footwear", "Use antifungal powder in shoes", "Change socks and underwear daily"]
+  },
+  {
+    "id": "cold-sores",
+    "name": "Cold Sores",
+    "symptoms": ["Small blisters on or around lips", "Tingling or burning before outbreak", "Fluid-filled blisters that crust over", "May be accompanied by fever or sore throat"],
+    "causes": ["Herpes simplex virus (HSV-1)", "Stress or illness", "Sun exposure", "Hormonal changes", "Transmitted by close contact"],
+    "whenToSeeDoctor": "If sores are near eyes, last more than 2 weeks, or you have a weakened immune system.",
+    "careTips": ["Apply cold compress for comfort", "Avoid touching or picking", "Use lip balm with sunscreen", "Don't share utensils or towels", "Antiviral creams may shorten duration if used early"]
+  },
+  {
+    "id": "skin-tags",
+    "name": "Skin Tags",
+    "symptoms": ["Small, soft, flesh-colored growths", "Often on neck, armpits, or groin", "May be attached by a narrow stalk", "Usually painless"],
+    "causes": ["Friction from skin rubbing", "Hormonal factors", "Genetics", "Obesity", "More common with age"],
+    "whenToSeeDoctor": "If a growth changes in size or color, bleeds, or you want removal. Never try to remove at home.",
+    "careTips": ["Generally harmless—no treatment needed", "Removal by a doctor if they bother you", "Avoid jewelry or clothing that irritates the area", "Keep area dry to reduce friction"]
+  },
+  {
+    "id": "hives",
+    "name": "Hives (Urticaria)",
+    "symptoms": ["Raised, red or skin-colored welts", "Itching", "Welts that change size and location", "May burn or sting", "Swelling (angioedema) in some cases"],
+    "causes": ["Allergic reactions", "Medications", "Insect bites", "Infections", "Stress or temperature changes"],
+    "whenToSeeDoctor": "If hives are severe, last more than a few days, or you have difficulty breathing or swelling of the face/throat (seek emergency care).",
+    "careTips": ["Avoid known triggers", "Cool compresses for relief", "Antihistamines as directed", "Wear loose, comfortable clothing", "Track possible triggers in a diary"]
+  },
+  {
+    "id": "warts",
+    "name": "Warts",
+    "symptoms": ["Small, rough bumps on skin", "Flesh-colored or slightly darker", "Common on hands and feet", "May have black dots (clotted vessels)", "Can be painful on feet (plantar warts)"],
+    "causes": ["Human papillomavirus (HPV)", "Direct skin contact", "Cuts or breaks in skin", "Shared surfaces (e.g., pool decks)"],
+    "whenToSeeDoctor": "If warts are painful, spread quickly, or you want removal. See a doctor for facial or genital warts.",
+    "careTips": ["Don't pick or scratch warts", "Keep feet dry to prevent spread", "Use salicylic acid patches for common warts", "Cover warts to reduce spread", "Consider professional removal if persistent"]
+  },
+  {
+    "id": "seborrheic-dermatitis",
+    "name": "Seborrheic Dermatitis",
+    "symptoms": ["Scaly patches and red skin", "Dandruff on scalp", "Oily or greasy areas", "Itching", "May affect eyebrows, nose, and chest"],
+    "causes": ["Yeast (Malassezia) on skin", "Oily skin", "Stress", "Cold, dry weather", "Certain medical conditions"],
+    "whenToSeeDoctor": "If symptoms are severe, don't respond to dandruff shampoo, or affect large areas.",
+    "careTips": ["Use anti-dandruff shampoo regularly", "Apply gentle moisturizer", "Limit oily products", "Manage stress", "Sun exposure in moderation may help some people"]
+  },
+  {
+    "id": "impetigo",
+    "name": "Impetigo",
+    "symptoms": ["Red sores that burst and form honey-colored crusts", "Itchy", "Often around nose and mouth", "Can spread to other body parts", "More common in children"],
+    "causes": ["Bacterial infection (Staph or Strep)", "Cuts, insect bites, or eczema", "Close contact with infected person", "Warm, humid conditions"],
+    "whenToSeeDoctor": "Impetigo usually requires prescription antibiotics. See a doctor for diagnosis and treatment.",
+    "careTips": ["Keep sores clean and covered", "Don't share towels or bedding", "Wash hands frequently", "Complete full course of antibiotics", "Keep nails short to prevent scratching"]
+  },
+  {
+    "id": "ringworm",
+    "name": "Ringworm (Tinea)",
+    "symptoms": ["Ring-shaped red or silver rash", "Itchy", "Scaly or cracked skin", "May appear on body, scalp, or feet", "Hair loss in scalp ringworm"],
+    "causes": ["Fungal infection", "Contact with infected person or animal", "Damp surfaces (locker rooms, pools)", "Warm, sweaty conditions"],
+    "whenToSeeDoctor": "If rash doesn't improve with OTC antifungal after 2 weeks, or affects scalp or nails.",
+    "careTips": ["Use antifungal cream as directed", "Keep area clean and dry", "Wash clothes and bedding in hot water", "Avoid sharing personal items", "Treat pets if they have ringworm"]
+  }
+]
