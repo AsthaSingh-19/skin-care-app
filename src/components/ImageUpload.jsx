@@ -43,7 +43,7 @@ export default function ImageUpload({ onImageSelect, selectedFile, onClear, onRe
     formData.append("file", selectedFile);
 
     try {
-      const response = await fetch("http://localhost:8000/predict", {
+      const response = await fetch("[https://skin-care-app-8mx8.onrender.com](https://www.google.com/search?q=https://skin-care-app-8mx8.onrender.com)", {
         method: "POST",
         body: formData,
       });
