@@ -16,6 +16,7 @@ A skin disease detection and consultation website built with React, Vite, and Ta
 - React Router DOM
 - Tailwind CSS
 - Lucide React (icons)
+- Python
 
 ## Run Locally
 
